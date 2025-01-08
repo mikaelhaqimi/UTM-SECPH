@@ -1,4 +1,4 @@
-# SECPH-UTM
+# UTM-SECPH
 
 > <p align="justify"> You can access all of my coursework and related projects completed during my studies at Universiti Teknologi Malaysia (UTM) in this repository. It serves as a comprehensive collection showcasing my academic progress, skills, and dedication throughout my Bachelor of Science in Computer (Data Engineering) program. The repository reflects my journey in mastering various subjects, including programming, data analysis, database management, and system design. It highlights not only the theoretical knowledge I've gained but also its practical application through hands-on projects and assignments. <br>
 
